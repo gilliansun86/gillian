@@ -1,2 +1,2 @@
 # personal-website
-personal website at http://web.stanford.edu/~zhiyuan8/
+Personal website for Wei Chen
